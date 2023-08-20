@@ -1,7 +1,7 @@
 # my-new-repository
 説明文です。
 
-wwwww
+ww
 a
 ccccc
 ddddddd
